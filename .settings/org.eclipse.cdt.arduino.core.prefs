@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+libraries=[{"package"\:"esp8266","platform"\:"esp8266","library"\:"ESP8266WiFi"},"Metro","ArduinoJson","ESPHelper",{"package"\:"esp8266","platform"\:"esp8266","library"\:"ESP8266WebServer"},{"package"\:"esp8266","platform"\:"esp8266","library"\:"ESP8266mDNS"},{"package"\:"esp8266","platform"\:"esp8266","library"\:"ArduinoOTA"},"ESP8266Ping","PubSubClient"]
